@@ -1,4 +1,5 @@
 # streaming-02-multiple-processes
+# Kyle Hudson
 
 > Multiple processes accessing a shared resource concurrently
 
